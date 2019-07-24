@@ -1,0 +1,1 @@
+<p>This repository is a way of keeping track of methods learned during data camp's supervised learning with scikit learn, including four chapters on 1) Classification 2) Regression 3) Fine tuning your model and 4) Preprocessing and timelines</p>
