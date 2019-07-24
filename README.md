@@ -9,9 +9,12 @@
   <li>Preprocessing and timelines</li>
 </ol>
 
+<h2>Full descriptions can be found below:</h2>
 
 ![alt text](https://github.com/scharnk/supervised-learning-with-scikit-learn/blob/master/images/sklearn_CH01.png)<br>
 
 ![alt text](https://github.com/scharnk/supervised-learning-with-scikit-learn/blob/master/images/sklearn_CH02.png)<br>
 
 ![alt text](https://github.com/scharnk/supervised-learning-with-scikit-learn/blob/master/images/sklearn_CH03.png)<br>
+
+![alt text](https://github.com/scharnk/supervised-learning-with-scikit-learn/blob/master/images/sklearn_CH04.png)<br>
