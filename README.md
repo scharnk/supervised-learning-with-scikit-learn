@@ -12,6 +12,8 @@
 <h2>Full descriptions can be found below:</h2>
 <br>
 <br>
+<img src = "https://github.com/scharnk/supervised-learning-with-scikit-learn/blob/master/images/sklearn_CH01.png" width="250">
+
 ![image](https://github.com/scharnk/supervised-learning-with-scikit-learn/blob/master/images/sklearn_CH01.png = 250x)<br>
 
 ![alt text](https://github.com/scharnk/supervised-learning-with-scikit-learn/blob/master/images/sklearn_CH02.png)<br>
